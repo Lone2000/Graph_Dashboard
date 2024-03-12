@@ -20,7 +20,6 @@ function MainContent({ country }) {
   const filtered_data = raw_data.filter(
     (raw_data) => raw_data.Country == country
   );
-  console.log(filtered_data);
 
   return (
     <>
