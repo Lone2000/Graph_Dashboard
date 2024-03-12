@@ -4,11 +4,6 @@ import MainContent from "./MainContent";
 function CountryForm() {
   const [country, setCountry] = useState("");
 
-  const handleOnSubmit = (e) => {
-    e.preventDefault();
-    console.log("I was clicked");
-  };
-
   const handleOnChange = (e) => {
     setCountry(e.target.value);
   };
