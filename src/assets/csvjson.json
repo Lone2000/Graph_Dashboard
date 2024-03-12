@@ -1,0 +1,1012 @@
+[
+  {
+    "Rank2021": 1,
+    "Airport": "Istanbul Airport",
+    "City served": "Istanbul",
+    "Country": "Turkey",
+    "Passengers-2021": 37176509,
+    "Passengers-2020": "23409132,00",
+    "Change 2021-2020-Num": 13767377,
+    "Change 2021-2020-%": "%58,81"
+  },
+  {
+    "Rank2021": 2,
+    "Airport": "Sheremetyevo International Airport",
+    "City served": "Moscow",
+    "Country": "Russia",
+    "Passengers-2021": 30623796,
+    "Passengers-2020": "19566402,00",
+    "Change 2021-2020-Num": 11057394,
+    "Change 2021-2020-%": "%56,51"
+  },
+  {
+    "Rank2021": 3,
+    "Airport": "Charles de Gaulle Airport",
+    "City served": "Paris",
+    "Country": "France",
+    "Passengers-2021": 26196575,
+    "Passengers-2020": "22257469,00",
+    "Change 2021-2020-Num": 3939106,
+    "Change 2021-2020-%": "%17,70"
+  },
+  {
+    "Rank2021": 4,
+    "Airport": "Amsterdam Airport Schiphol",
+    "City served": "Amsterdam",
+    "Country": "Netherlands",
+    "Passengers-2021": 25492633,
+    "Passengers-2020": "20887174,00",
+    "Change 2021-2020-Num": 4605459,
+    "Change 2021-2020-%": "%22,05"
+  },
+  {
+    "Rank2021": 5,
+    "Airport": "Domodedovo International Airport",
+    "City served": "Moscow",
+    "Country": "Russia",
+    "Passengers-2021": 25065087,
+    "Passengers-2020": "16389427,00",
+    "Change 2021-2020-Num": 8675660,
+    "Change 2021-2020-%": "%52,93"
+  },
+  {
+    "Rank2021": 6,
+    "Airport": "Frankfurt am Main Airport",
+    "City served": "Frankfurt",
+    "Country": "Germany",
+    "Passengers-2021": 24812849,
+    "Passengers-2020": "18768601,00",
+    "Change 2021-2020-Num": 6044248,
+    "Change 2021-2020-%": "%32,20"
+  },
+  {
+    "Rank2021": 7,
+    "Airport": "Adolfo Suárez Madrid–Barajas Airport",
+    "City served": "Madrid",
+    "Country": "Spain",
+    "Passengers-2021": 24135220,
+    "Passengers-2020": "17112389,00",
+    "Change 2021-2020-Num": 7022831,
+    "Change 2021-2020-%": "%41,04"
+  },
+  {
+    "Rank2021": 8,
+    "Airport": "Heathrow Airport",
+    "City served": "London",
+    "Country": "United Kingdom",
+    "Passengers-2021": 19392178,
+    "Passengers-2020": "22109726,00",
+    "Change 2021-2020-Num": -2717548,
+    "Change 2021-2020-%": "-%12,29"
+  },
+  {
+    "Rank2021": 9,
+    "Airport": "Josep Tarradellas Barcelona–El Prat Airport",
+    "City served": "Barcelona",
+    "Country": "Spain",
+    "Passengers-2021": 18874896,
+    "Passengers-2020": "12739259,00",
+    "Change 2021-2020-Num": 6135637,
+    "Change 2021-2020-%": "%48,16"
+  },
+  {
+    "Rank2021": 10,
+    "Airport": "Pulkovo Airport",
+    "City served": "Saint Petersburg",
+    "Country": "Russia",
+    "Passengers-2021": 18043464,
+    "Passengers-2020": "10944421,00",
+    "Change 2021-2020-Num": 7099043,
+    "Change 2021-2020-%": "%64,86"
+  },
+  {
+    "Rank2021": 11,
+    "Airport": "Vnukovo International Airport",
+    "City served": "Moscow",
+    "Country": "Russia",
+    "Passengers-2021": 17999084,
+    "Passengers-2020": "12565241,00",
+    "Change 2021-2020-Num": 5433843,
+    "Change 2021-2020-%": "%43,25"
+  },
+  {
+    "Rank2021": 12,
+    "Airport": "Orly Airport",
+    "City served": "Paris",
+    "Country": "France",
+    "Passengers-2021": 15724580,
+    "Passengers-2020": "10797105,00",
+    "Change 2021-2020-Num": 4927475,
+    "Change 2021-2020-%": "%45,64"
+  },
+  {
+    "Rank2021": 13,
+    "Airport": "Palma de Mallorca Airport",
+    "City served": "Palma de Mallorca",
+    "Country": "Spain",
+    "Passengers-2021": 14496857,
+    "Passengers-2020": "6108486,00",
+    "Change 2021-2020-Num": 8388371,
+    "Change 2021-2020-%": "%137,32"
+  },
+  {
+    "Rank2021": 14,
+    "Airport": "Munich Airport",
+    "City served": "Munich",
+    "Country": "Germany",
+    "Passengers-2021": 12496432,
+    "Passengers-2020": "11120224,00",
+    "Change 2021-2020-Num": 1376208,
+    "Change 2021-2020-%": "%12,38"
+  },
+  {
+    "Rank2021": 15,
+    "Airport": "Athens International Airport",
+    "City served": "Athens",
+    "Country": "Greece",
+    "Passengers-2021": 12346078,
+    "Passengers-2020": "8078383,00",
+    "Change 2021-2020-Num": 4267695,
+    "Change 2021-2020-%": "%52,83"
+  },
+  {
+    "Rank2021": 16,
+    "Airport": "Lisbon Airport",
+    "City served": "Lisbon",
+    "Country": "Portugal",
+    "Passengers-2021": 12149000,
+    "Passengers-2020": "9268000,00",
+    "Change 2021-2020-Num": 2881000,
+    "Change 2021-2020-%": "%31,09"
+  },
+  {
+    "Rank2021": 17,
+    "Airport": "Leonardo da Vinci–Fiumicino Airport",
+    "City served": "Rome",
+    "Country": "Italy",
+    "Passengers-2021": 11662842,
+    "Passengers-2020": "9830957,00",
+    "Change 2021-2020-Num": 1831885,
+    "Change 2021-2020-%": "%18,63"
+  },
+  {
+    "Rank2021": 18,
+    "Airport": "Vienna International Airport",
+    "City served": "Vienna",
+    "Country": "Austria",
+    "Passengers-2021": 10405523,
+    "Passengers-2020": "7812938,00",
+    "Change 2021-2020-Num": 2592585,
+    "Change 2021-2020-%": "%33,18"
+  },
+  {
+    "Rank2021": 19,
+    "Airport": "Zurich Airport",
+    "City served": "Zürich",
+    "Country": "Switzerland",
+    "Passengers-2021": 10234428,
+    "Passengers-2020": "8341047,00",
+    "Change 2021-2020-Num": 1893381,
+    "Change 2021-2020-%": "%22,70"
+  },
+  {
+    "Rank2021": 20,
+    "Airport": "Berlin Brandenburg Airport",
+    "City served": "Berlin",
+    "Country": "Germany",
+    "Passengers-2021": 9947006,
+    "Passengers-2020": "444893,00",
+    "Change 2021-2020-Num": 9502113,
+    "Change 2021-2020-%": "%2135,82"
+  },
+  {
+    "Rank2021": 21,
+    "Airport": "Malpensa Airport",
+    "City served": "Milan",
+    "Country": "Italy",
+    "Passengers-2021": 9622464,
+    "Passengers-2020": "7241766,00",
+    "Change 2021-2020-Num": 2380698,
+    "Change 2021-2020-%": "%32,87"
+  },
+  {
+    "Rank2021": 22,
+    "Airport": "Boryspil International Airport",
+    "City served": "Kyiv",
+    "Country": "Ukraine",
+    "Passengers-2021": 9433000,
+    "Passengers-2020": "5157848,00",
+    "Change 2021-2020-Num": 4275152,
+    "Change 2021-2020-%": "%82,89"
+  },
+  {
+    "Rank2021": 23,
+    "Airport": "Oslo Airport, Gardermoen",
+    "City served": "Oslo",
+    "Country": "Norway",
+    "Passengers-2021": 9398133,
+    "Passengers-2020": "9021729,00",
+    "Change 2021-2020-Num": 376404,
+    "Change 2021-2020-%": "%4,17"
+  },
+  {
+    "Rank2021": 24,
+    "Airport": "Brussels Airport",
+    "City served": "Brussels",
+    "Country": "Belgium",
+    "Passengers-2021": 9357221,
+    "Passengers-2020": "6743395,00",
+    "Change 2021-2020-Num": 2613826,
+    "Change 2021-2020-%": "%38,76"
+  },
+  {
+    "Rank2021": 25,
+    "Airport": "Copenhagen Airport",
+    "City served": "Copenhagen",
+    "Country": "Denmark",
+    "Passengers-2021": 9179654,
+    "Passengers-2020": "7525441,00",
+    "Change 2021-2020-Num": 1654213,
+    "Change 2021-2020-%": "%21,98"
+  },
+  {
+    "Rank2021": 26,
+    "Airport": "Málaga Airport",
+    "City served": "Málaga",
+    "Country": "Spain",
+    "Passengers-2021": 8874765,
+    "Passengers-2020": "5161636,00",
+    "Change 2021-2020-Num": 3713129,
+    "Change 2021-2020-%": "%71,94"
+  },
+  {
+    "Rank2021": 27,
+    "Airport": "Dublin Airport",
+    "City served": "Dublin",
+    "Country": "Ireland",
+    "Passengers-2021": 8460000,
+    "Passengers-2020": "7400000,00",
+    "Change 2021-2020-Num": 1060000,
+    "Change 2021-2020-%": "%14,32"
+  },
+  {
+    "Rank2021": 28,
+    "Airport": "Düsseldorf Airport",
+    "City served": "Düsseldorf",
+    "Country": "Germany",
+    "Passengers-2021": 7944870,
+    "Passengers-2020": "6569728,00",
+    "Change 2021-2020-Num": 1375142,
+    "Change 2021-2020-%": "%20,93"
+  },
+  {
+    "Rank2021": 29,
+    "Airport": "Stockholm Arlanda Airport",
+    "City served": "Stockholm",
+    "Country": "Sweden",
+    "Passengers-2021": 7494765,
+    "Passengers-2020": "6535776,00",
+    "Change 2021-2020-Num": 958989,
+    "Change 2021-2020-%": "%14,67"
+  },
+  {
+    "Rank2021": 30,
+    "Airport": "Warsaw Chopin Airport",
+    "City served": "Warsaw",
+    "Country": "Poland",
+    "Passengers-2021": 7473734,
+    "Passengers-2020": "5482000,00",
+    "Change 2021-2020-Num": 1991734,
+    "Change 2021-2020-%": "%36,33"
+  },
+  {
+    "Rank2021": 31,
+    "Airport": "London Stansted Airport",
+    "City served": "London",
+    "Country": "United Kingdom",
+    "Passengers-2021": 7137113,
+    "Passengers-2020": "7543779,00",
+    "Change 2021-2020-Num": -406666,
+    "Change 2021-2020-%": "-%5,39"
+  },
+  {
+    "Rank2021": 32,
+    "Airport": "Henri Coandă International Airport",
+    "City served": "Bucharest",
+    "Country": "Romania",
+    "Passengers-2021": 6914610,
+    "Passengers-2020": "4456000,00",
+    "Change 2021-2020-Num": 2458610,
+    "Change 2021-2020-%": "%55,18"
+  },
+  {
+    "Rank2021": 33,
+    "Airport": "Simferopol International Airport",
+    "City served": "Simferopol",
+    "Country": "Russia[note 1]",
+    "Passengers-2021": 6830000,
+    "Passengers-2020": "4630000,00",
+    "Change 2021-2020-Num": 2200000,
+    "Change 2021-2020-%": "%47,52"
+  },
+  {
+    "Rank2021": 34,
+    "Airport": "Nice Côte d'Azur Airport",
+    "City served": "Nice",
+    "Country": "France",
+    "Passengers-2021": 6540424,
+    "Passengers-2020": "4580459,00",
+    "Change 2021-2020-Num": 1959965,
+    "Change 2021-2020-%": "%42,79"
+  },
+  {
+    "Rank2021": 35,
+    "Airport": "Orio al Serio International Airport",
+    "City served": "Milan/Bergamo",
+    "Country": "Italy",
+    "Passengers-2021": 6467296,
+    "Passengers-2020": "3833063,00",
+    "Change 2021-2020-Num": 2634233,
+    "Change 2021-2020-%": "%68,72"
+  },
+  {
+    "Rank2021": 36,
+    "Airport": "Gatwick Airport",
+    "City served": "London",
+    "Country": "United Kingdom",
+    "Passengers-2021": 6260072,
+    "Passengers-2020": "10171867,00",
+    "Change 2021-2020-Num": -3911795,
+    "Change 2021-2020-%": "-%38,46"
+  },
+  {
+    "Rank2021": 37,
+    "Airport": "Catania-Fontanarossa Airport",
+    "City served": "Catania",
+    "Country": "Italy",
+    "Passengers-2021": 6123791,
+    "Passengers-2020": "3654457,00",
+    "Change 2021-2020-Num": 2469334,
+    "Change 2021-2020-%": "%67,57"
+  },
+  {
+    "Rank2021": 38,
+    "Airport": "Manchester Airport",
+    "City served": "Manchester",
+    "Country": "United Kingdom",
+    "Passengers-2021": 6098891,
+    "Passengers-2020": "7037036,00",
+    "Change 2021-2020-Num": -938145,
+    "Change 2021-2020-%": "-%13,33"
+  },
+  {
+    "Rank2021": 39,
+    "Airport": "Geneva Airport",
+    "City served": "Geneva",
+    "Country": "Switzerland",
+    "Passengers-2021": 5923036,
+    "Passengers-2020": "5600914,00",
+    "Change 2021-2020-Num": 322122,
+    "Change 2021-2020-%": "%5,75"
+  },
+  {
+    "Rank2021": 40,
+    "Airport": "Porto Airport",
+    "City served": "Porto",
+    "Country": "Portugal",
+    "Passengers-2021": 5842000,
+    "Passengers-2020": "4436000,00",
+    "Change 2021-2020-Num": 1406000,
+    "Change 2021-2020-%": "%31,70"
+  },
+  {
+    "Rank2021": 41,
+    "Airport": "Alicante Airport",
+    "City served": "Alicante",
+    "Country": "Spain",
+    "Passengers-2021": 5841181,
+    "Passengers-2020": "3739499,00",
+    "Change 2021-2020-Num": 2101682,
+    "Change 2021-2020-%": "%56,20"
+  },
+  {
+    "Rank2021": 42,
+    "Airport": "Hamburg Airport",
+    "City served": "Hamburg",
+    "Country": "Germany",
+    "Passengers-2021": 5318698,
+    "Passengers-2020": "4557372,00",
+    "Change 2021-2020-Num": 761326,
+    "Change 2021-2020-%": "%16,71"
+  },
+  {
+    "Rank2021": 43,
+    "Airport": "Heraklion International Airport",
+    "City served": "Heraklion",
+    "Country": "Greece",
+    "Passengers-2021": 5046236,
+    "Passengers-2020": "2378145,00",
+    "Change 2021-2020-Num": 2668091,
+    "Change 2021-2020-%": "%112,19"
+  },
+  {
+    "Rank2021": 44,
+    "Airport": "Krasnodar International Airport[note 2]",
+    "City served": "Krasnodar",
+    "Country": "Russia",
+    "Passengers-2021": 5022243,
+    "Passengers-2020": "3076447,00",
+    "Change 2021-2020-Num": 1945796,
+    "Change 2021-2020-%": "%63,25"
+  },
+  {
+    "Rank2021": 45,
+    "Airport": "Ibiza Airport",
+    "City served": "Ibiza",
+    "Country": "Spain",
+    "Passengers-2021": 4851819,
+    "Passengers-2020": "2110348,00",
+    "Change 2021-2020-Num": 2741471,
+    "Change 2021-2020-%": "%129,91"
+  },
+  {
+    "Rank2021": 46,
+    "Airport": "Luton Airport",
+    "City served": "London",
+    "Country": "United Kingdom",
+    "Passengers-2021": 4673656,
+    "Passengers-2020": "5472826,00",
+    "Change 2021-2020-Num": -799170,
+    "Change 2021-2020-%": "-%14,60"
+  },
+  {
+    "Rank2021": 47,
+    "Airport": "Marseille Provence Airport",
+    "City served": "Marseille",
+    "Country": "France",
+    "Passengers-2021": 4661045,
+    "Passengers-2020": "3359149,00",
+    "Change 2021-2020-Num": 1301896,
+    "Change 2021-2020-%": "%38,76"
+  },
+  {
+    "Rank2021": 48,
+    "Airport": "Naples Airport",
+    "City served": "Naples",
+    "Country": "Italy",
+    "Passengers-2021": 4636501,
+    "Passengers-2020": "2779946,00",
+    "Change 2021-2020-Num": 1856555,
+    "Change 2021-2020-%": "%66,78"
+  },
+  {
+    "Rank2021": 49,
+    "Airport": "Budapest Ferenc Liszt International Airport",
+    "City served": "Budapest",
+    "Country": "Hungary",
+    "Passengers-2021": 4622886,
+    "Passengers-2020": "3859379,00",
+    "Change 2021-2020-Num": 763507,
+    "Change 2021-2020-%": "%19,78"
+  },
+  {
+    "Rank2021": 50,
+    "Airport": "Falcone–Borsellino Airport",
+    "City served": "Palermo",
+    "Country": "Italy",
+    "Passengers-2021": 4576246,
+    "Passengers-2020": "2701519,00",
+    "Change 2021-2020-Num": 1874727,
+    "Change 2021-2020-%": "%69,40"
+  },
+  {
+    "Rank2021": 51,
+    "Airport": "Lyon–Saint-Exupéry Airport",
+    "City served": "Lyon",
+    "Country": "France",
+    "Passengers-2021": 4525552,
+    "Passengers-2020": "3553918,00",
+    "Change 2021-2020-Num": 971634,
+    "Change 2021-2020-%": "%27,34"
+  },
+  {
+    "Rank2021": 52,
+    "Airport": "Václav Havel Airport Prague",
+    "City served": "Prague",
+    "Country": "Czech Republic",
+    "Passengers-2021": 4388826,
+    "Passengers-2020": "3665871,00",
+    "Change 2021-2020-Num": 722955,
+    "Change 2021-2020-%": "%19,72"
+  },
+  {
+    "Rank2021": 53,
+    "Airport": "Linate Airport",
+    "City served": "Milan",
+    "Country": "Italy",
+    "Passengers-2021": 4346518,
+    "Passengers-2020": "2274202,00",
+    "Change 2021-2020-Num": 2072316,
+    "Change 2021-2020-%": "%91,12"
+  },
+  {
+    "Rank2021": 54,
+    "Airport": "Helsinki Airport",
+    "City served": "Helsinki",
+    "Country": "Finland",
+    "Passengers-2021": 4261530,
+    "Passengers-2020": "5053134,00",
+    "Change 2021-2020-Num": -791604,
+    "Change 2021-2020-%": "-%15,67"
+  },
+  {
+    "Rank2021": 55,
+    "Airport": "Cologne Bonn Airport",
+    "City served": "Cologne/Bonn",
+    "Country": "Germany",
+    "Passengers-2021": 4253568,
+    "Passengers-2020": "3076587,00",
+    "Change 2021-2020-Num": 1176981,
+    "Change 2021-2020-%": "%38,26"
+  },
+  {
+    "Rank2021": 56,
+    "Airport": "Bologna Guglielmo Marconi Airport",
+    "City served": "Bologna",
+    "Country": "Italy",
+    "Passengers-2021": 4103816,
+    "Passengers-2020": "2506258,00",
+    "Change 2021-2020-Num": 1597558,
+    "Change 2021-2020-%": "%63,74"
+  },
+  {
+    "Rank2021": 57,
+    "Airport": "Valencia Airport",
+    "City served": "Valencia",
+    "Country": "Spain",
+    "Passengers-2021": 4077836,
+    "Passengers-2020": "2487496,00",
+    "Change 2021-2020-Num": 1590340,
+    "Change 2021-2020-%": "%63,93"
+  },
+  {
+    "Rank2021": 58,
+    "Airport": "Ufa International Airport",
+    "City served": "Ufa",
+    "Country": "Russia",
+    "Passengers-2021": 3987137,
+    "Passengers-2020": "2368689,00",
+    "Change 2021-2020-Num": 1618448,
+    "Change 2021-2020-%": "%68,33"
+  },
+  {
+    "Rank2021": 59,
+    "Airport": "Khrabrovo Airport",
+    "City served": "Kaliningrad",
+    "Country": "Russia",
+    "Passengers-2021": 3910846,
+    "Passengers-2020": "2117931,00",
+    "Change 2021-2020-Num": 1792915,
+    "Change 2021-2020-%": "%84,65"
+  },
+  {
+    "Rank2021": 60,
+    "Airport": "Kazan International Airport",
+    "City served": "Kazan",
+    "Country": "Russia",
+    "Passengers-2021": 3876000,
+    "Passengers-2020": "2171603,00",
+    "Change 2021-2020-Num": 1704397,
+    "Change 2021-2020-%": "%78,49"
+  },
+  {
+    "Rank2021": 61,
+    "Airport": "Toulouse–Blagnac Airport",
+    "City served": "Toulouse",
+    "Country": "France",
+    "Passengers-2021": 3821653,
+    "Passengers-2020": "3130847,00",
+    "Change 2021-2020-Num": 690806,
+    "Change 2021-2020-%": "%22,06"
+  },
+  {
+    "Rank2021": 62,
+    "Airport": "Brussels South Charleroi Airport",
+    "City served": "Charleroi",
+    "Country": "Belgium",
+    "Passengers-2021": 3758833,
+    "Passengers-2020": "2558046,00",
+    "Change 2021-2020-Num": 1200787,
+    "Change 2021-2020-%": "%46,94"
+  },
+  {
+    "Rank2021": 63,
+    "Airport": "EuroAirport Basel Mulhouse Freiburg",
+    "City served": "Basel/Mulhouse/Freiburg im Breisgau",
+    "Country": "France  Switzerland",
+    "Passengers-2021": 3621742,
+    "Passengers-2020": "2598980,00",
+    "Change 2021-2020-Num": 1022762,
+    "Change 2021-2020-%": "%39,35"
+  },
+  {
+    "Rank2021": 64,
+    "Airport": "Stuttgart Airport",
+    "City served": "Stuttgart",
+    "Country": "Germany",
+    "Passengers-2021": 3573728,
+    "Passengers-2020": "3213695,00",
+    "Change 2021-2020-Num": 360033,
+    "Change 2021-2020-%": "%11,20"
+  },
+  {
+    "Rank2021": 65,
+    "Airport": "Thessaloniki Airport \"Macedonia",
+    "City served": "Thessaloniki",
+    "Country": "Greece",
+    "Passengers-2021": 3449658,
+    "Passengers-2020": "2317336,00",
+    "Change 2021-2020-Num": 1132322,
+    "Change 2021-2020-%": "%48,86"
+  },
+  {
+    "Rank2021": 66,
+    "Airport": "Seville Airport",
+    "City served": "Seville",
+    "Country": "Spain",
+    "Passengers-2021": 3444459,
+    "Passengers-2020": "2315610,00",
+    "Change 2021-2020-Num": 1128849,
+    "Change 2021-2020-%": "%48,75"
+  },
+  {
+    "Rank2021": 67,
+    "Airport": "Venice Marco Polo Airport",
+    "City served": "Venice",
+    "Country": "Italy",
+    "Passengers-2021": 3437204,
+    "Passengers-2020": "2799688,00",
+    "Change 2021-2020-Num": 637516,
+    "Change 2021-2020-%": "%22,77"
+  },
+  {
+    "Rank2021": 68,
+    "Airport": "Rhodes International Airport",
+    "City served": "Rhodes",
+    "Country": "Greece",
+    "Passengers-2021": 3366614,
+    "Passengers-2020": "1551123,00",
+    "Change 2021-2020-Num": 1815491,
+    "Change 2021-2020-%": "%117,04"
+  },
+  {
+    "Rank2021": 69,
+    "Airport": "Sofia Airport",
+    "City served": "Sofia",
+    "Country": "Bulgaria",
+    "Passengers-2021": 3364151,
+    "Passengers-2020": "2937846,00",
+    "Change 2021-2020-Num": 426305,
+    "Change 2021-2020-%": "%14,51"
+  },
+  {
+    "Rank2021": 70,
+    "Airport": "Nantes Atlantique Airport",
+    "City served": "Nantes",
+    "Country": "France",
+    "Passengers-2021": 3294142,
+    "Passengers-2020": "2327718,00",
+    "Change 2021-2020-Num": 966424,
+    "Change 2021-2020-%": "%41,52"
+  },
+  {
+    "Rank2021": 71,
+    "Airport": "Belgrade Nikola Tesla Airport",
+    "City served": "Belgrade",
+    "Country": "Serbia",
+    "Passengers-2021": 3286285,
+    "Passengers-2020": "1904025,00",
+    "Change 2021-2020-Num": 1382260,
+    "Change 2021-2020-%": "%72,60"
+  },
+  {
+    "Rank2021": 72,
+    "Airport": "Bergen Airport, Flesland",
+    "City served": "Bergen",
+    "Country": "Norway",
+    "Passengers-2021": 3273709,
+    "Passengers-2020": "2711276,00",
+    "Change 2021-2020-Num": 562433,
+    "Change 2021-2020-%": "%20,74"
+  },
+  {
+    "Rank2021": 73,
+    "Airport": "Faro Airport",
+    "City served": "Faro",
+    "Country": "Portugal",
+    "Passengers-2021": 3265000,
+    "Passengers-2020": "2208000,00",
+    "Change 2021-2020-Num": 1057000,
+    "Change 2021-2020-%": "%47,87"
+  },
+  {
+    "Rank2021": 74,
+    "Airport": "Mineralnye Vody Airport[note 2]",
+    "City served": "Mineralnye Vody",
+    "Country": "Russia",
+    "Passengers-2021": 3204709,
+    "Passengers-2020": "1797989,00",
+    "Change 2021-2020-Num": 1406720,
+    "Change 2021-2020-%": "%78,24"
+  },
+  {
+    "Rank2021": 75,
+    "Airport": "Kraków John Paul II International Airport",
+    "City served": "Kraków",
+    "Country": "Poland",
+    "Passengers-2021": 3072000,
+    "Passengers-2020": "2592972,00",
+    "Change 2021-2020-Num": 479028,
+    "Change 2021-2020-%": "%18,47"
+  },
+  {
+    "Rank2021": 76,
+    "Airport": "Bordeaux–Mérignac Airport",
+    "City served": "Bordeaux",
+    "Country": "France",
+    "Passengers-2021": 3050881,
+    "Passengers-2020": "2253000,00",
+    "Change 2021-2020-Num": 797881,
+    "Change 2021-2020-%": "%35,41"
+  },
+  {
+    "Rank2021": 77,
+    "Airport": "Edinburgh Airport",
+    "City served": "Edinburgh",
+    "Country": "United Kingdom",
+    "Passengers-2021": 3023614,
+    "Passengers-2020": "3473652,00",
+    "Change 2021-2020-Num": -450038,
+    "Change 2021-2020-%": "-%12,96"
+  },
+  {
+    "Rank2021": 78,
+    "Airport": "Kurumoch International Airport",
+    "City served": "Samara",
+    "Country": "Russia",
+    "Passengers-2021": 2993142,
+    "Passengers-2020": "1675034,00",
+    "Change 2021-2020-Num": 1318108,
+    "Change 2021-2020-%": "%78,69"
+  },
+  {
+    "Rank2021": 79,
+    "Airport": "Anapa Airport[note 2]",
+    "City served": "Anapa",
+    "Country": "Russia",
+    "Passengers-2021": 2931057,
+    "Passengers-2020": "1813347,00",
+    "Change 2021-2020-Num": 1117710,
+    "Change 2021-2020-%": "%61,64"
+  },
+  {
+    "Rank2021": 80,
+    "Airport": "Tirana Airport",
+    "City served": "Tirana",
+    "Country": "Albania",
+    "Passengers-2021": 2923533,
+    "Passengers-2020": "1310614,00",
+    "Change 2021-2020-Num": 1612919,
+    "Change 2021-2020-%": "%123,07"
+  },
+  {
+    "Rank2021": 81,
+    "Airport": "Platov International Airport",
+    "City served": "Rostov-on-Don",
+    "Country": "Russia",
+    "Passengers-2021": 2897938,
+    "Passengers-2020": "2086000,00",
+    "Change 2021-2020-Num": 811938,
+    "Change 2021-2020-%": "%38,92"
+  },
+  {
+    "Rank2021": 82,
+    "Airport": "Cagliari Elmas Airport",
+    "City served": "Cagliari",
+    "Country": "Italy",
+    "Passengers-2021": 2753899,
+    "Passengers-2020": "1767890,00",
+    "Change 2021-2020-Num": 986009,
+    "Change 2021-2020-%": "%55,77"
+  },
+  {
+    "Rank2021": 83,
+    "Airport": "Eindhoven Airport",
+    "City served": "Eindhoven",
+    "Country": "Netherlands",
+    "Passengers-2021": 2698424,
+    "Passengers-2020": "2112785,00",
+    "Change 2021-2020-Num": 585639,
+    "Change 2021-2020-%": "%27,72"
+  },
+  {
+    "Rank2021": 84,
+    "Airport": "Bilbao Airport",
+    "City served": "Bilbao",
+    "Country": "Spain",
+    "Passengers-2021": 2580911,
+    "Passengers-2020": "1690011,00",
+    "Change 2021-2020-Num": 890900,
+    "Change 2021-2020-%": "%52,72"
+  },
+  {
+    "Rank2021": 85,
+    "Airport": "Malta International Airport",
+    "City served": "Malta",
+    "Country": "Malta",
+    "Passengers-2021": 2540335,
+    "Passengers-2020": "1748050,00",
+    "Change 2021-2020-Num": 792285,
+    "Change 2021-2020-%": "%45,32"
+  },
+  {
+    "Rank2021": 86,
+    "Airport": "Minsk National Airport",
+    "City served": "Minsk",
+    "Country": "Belarus",
+    "Passengers-2021": 2500000,
+    "Passengers-2020": "1939192,00",
+    "Change 2021-2020-Num": 560808,
+    "Change 2021-2020-%": "%28,92"
+  },
+  {
+    "Rank2021": 87,
+    "Airport": "Birmingham Airport",
+    "City served": "Birmingham",
+    "Country": "United Kingdom",
+    "Passengers-2021": 2476584,
+    "Passengers-2020": "2865845,00",
+    "Change 2021-2020-Num": -389261,
+    "Change 2021-2020-%": "-%13,58"
+  },
+  {
+    "Rank2021": 88,
+    "Airport": "Riga International Airport",
+    "City served": "Riga",
+    "Country": "Latvia",
+    "Passengers-2021": 2353064,
+    "Passengers-2020": "2010000,00",
+    "Change 2021-2020-Num": 343064,
+    "Change 2021-2020-%": "%17,07"
+  },
+  {
+    "Rank2021": 89,
+    "Airport": "Katowice Airport",
+    "City served": "Katowice",
+    "Country": "Poland",
+    "Passengers-2021": 2328973,
+    "Passengers-2020": "1445781,00",
+    "Change 2021-2020-Num": 883192,
+    "Change 2021-2020-%": "%61,09"
+  },
+  {
+    "Rank2021": 90,
+    "Airport": "Belfast International Airport",
+    "City served": "Belfast",
+    "Country": "United Kingdom",
+    "Passengers-2021": 2327139,
+    "Passengers-2020": "1746951,00",
+    "Change 2021-2020-Num": 580188,
+    "Change 2021-2020-%": "%33,21"
+  },
+  {
+    "Rank2021": 91,
+    "Airport": "Ciampino Airport",
+    "City served": "Rome",
+    "Country": "Italy",
+    "Passengers-2021": 2326113,
+    "Passengers-2020": "1621159,00",
+    "Change 2021-2020-Num": 704954,
+    "Change 2021-2020-%": "%43,48"
+  },
+  {
+    "Rank2021": 92,
+    "Airport": "Corfu International Airport",
+    "City served": "Corfu",
+    "Country": "Greece",
+    "Passengers-2021": 2317336,
+    "Passengers-2020": "961037,00",
+    "Change 2021-2020-Num": 1356299,
+    "Change 2021-2020-%": "%141,13"
+  },
+  {
+    "Rank2021": 93,
+    "Airport": "Pristina International Airport",
+    "City served": "Pristina",
+    "Country": "Kosovo",
+    "Passengers-2021": 2176036,
+    "Passengers-2020": "1102091,00",
+    "Change 2021-2020-Num": 1073945,
+    "Change 2021-2020-%": "%97,45"
+  },
+  {
+    "Rank2021": 94,
+    "Airport": "Keflavík International Airport",
+    "City served": "Reykjavík",
+    "Country": "Iceland",
+    "Passengers-2021": 2172152,
+    "Passengers-2020": "1373971,00",
+    "Change 2021-2020-Num": 798181,
+    "Change 2021-2020-%": "%58,09"
+  },
+  {
+    "Rank2021": 95,
+    "Airport": "Gdańsk Lech Wałęsa Airport",
+    "City served": "Gdańsk",
+    "Country": "Poland",
+    "Passengers-2021": 2154563,
+    "Passengers-2020": "1711281,00",
+    "Change 2021-2020-Num": 443282,
+    "Change 2021-2020-%": "%25,90"
+  },
+  {
+    "Rank2021": 96,
+    "Airport": "Bristol Airport",
+    "City served": "Bristol",
+    "Country": "United Kingdom",
+    "Passengers-2021": 2085745,
+    "Passengers-2020": "2192725,00",
+    "Change 2021-2020-Num": -106980,
+    "Change 2021-2020-%": "-%4,88"
+  },
+  {
+    "Rank2021": 97,
+    "Airport": "Olbia Costa Smeralda Airport",
+    "City served": "Olbia",
+    "Country": "Italy",
+    "Passengers-2021": 2081057,
+    "Passengers-2020": "1,00",
+    "Change 2021-2020-Num": 2081057,
+    "Change 2021-2020-%": "%208105700,00"
+  },
+  {
+    "Rank2021": 98,
+    "Airport": "Beauvais–Tillé Airport",
+    "City served": "Paris",
+    "Country": "France",
+    "Passengers-2021": 2073643,
+    "Passengers-2020": "1258180,00",
+    "Change 2021-2020-Num": 815463,
+    "Change 2021-2020-%": "%64,81"
+  },
+  {
+    "Rank2021": 99,
+    "Airport": "Glasgow Airport",
+    "City served": "Glasgow",
+    "Country": "United Kingdom",
+    "Passengers-2021": 2071124,
+    "Passengers-2020": "1944981,00",
+    "Change 2021-2020-Num": 126143,
+    "Change 2021-2020-%": "%6,49"
+  },
+  {
+    "Rank2021": 100,
+    "Airport": "Turin Airport",
+    "City served": "Turin",
+    "Country": "Italy",
+    "Passengers-2021": 2066106,
+    "Passengers-2020": "1,00",
+    "Change 2021-2020-Num": 2066106,
+    "Change 2021-2020-%": "%206610600,00"
+  },
+  {
+    "Rank2021": 101,
+    "Airport": "Trondheim Airport Værnes",
+    "City served": "Trondheim",
+    "Country": "Norway",
+    "Passengers-2021": 2062299,
+    "Passengers-2020": "1802826,00",
+    "Change 2021-2020-Num": 259473,
+    "Change 2021-2020-%": "%14,39"
+  }
+]
